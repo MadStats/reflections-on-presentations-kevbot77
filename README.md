@@ -6,12 +6,12 @@ For each presentation, copy-and-paste then fill-in-the-blanks.  You must comment
 
 Title of presentation: Fragile Family
 
-What were aspects of the presentation that you liked:
+What were aspects of the presentation that you liked: 
+Great introduction of the dataset and detailed explanation on the variable
 
 What were aspects of the presentations for which you had concerns or questions:
 
-
-
+Lack of outlier handling and model validation, some other models may also be possible to apply for the dataset.
 
 
 Title of presentation: Mass Shooting 
