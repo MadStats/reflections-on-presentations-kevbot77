@@ -19,6 +19,7 @@ Title of presentation: Mass Shooting
 What were aspects of the presentation that you liked: good correlations between thesis statements, and clear explanations on motivations
 
 
+
 What were aspects of the presentations for which you had concerns or questions:
 There can be a further analysis on the residual plot, but another model can be chosen to fit
 
@@ -26,20 +27,24 @@ There can be a further analysis on the residual plot, but another model can be c
 
 Title of presentation: Voting
 
+
 What were aspects of the presentation that you liked: 
 
 Clear thesis statement and idea presentation, good justification of the project's limitation.
 
 
-What were aspects of the presentations for which you had concerns or questions:
+
+VWhat were aspects of the presentations for which you had concerns or questions:
 
 Did not take account for the massive portion of non-responders, need more explorations on that, should not just eliminiate. 
+
 
 
 Title of presentation: Yelp
 
 What were aspects of the presentation that you liked: 
 Contain dataset with a variety of interesting data
+
 Interesting topic and detailed analysis 
 
 What were aspects of the presentations for which you had concerns or questions:
@@ -55,3 +60,68 @@ Although attempted four types of models, it did not specify the feature of each 
 a better option. Did not handle correlation problem/ 
 
 
+Title of presentation: Game 
+
+What were aspects of the presentation that you liked: 
+Very nice introduction and appealing start 
+
+What were aspects of the presentations for which you had concerns or questions:
+Weak in data and background explanation, hard for people who does not have gaming experience to understand. 
+Fundental mistake in data analysis
+
+
+
+Title of presentation: H1b
+
+What were aspects of the presentation that you liked:
+Good delivery and detailed analysis that accounts multiple factors. 
+Good interpretations of the results.
+
+What were aspects of the presentations for which you had concerns or questions:
+Visualization can be displayed in a better arrangement. 
+Unclear motivation behind the clustering. 
+
+
+
+
+Title of presentation: Traffic
+
+What were aspects of the presentation that you liked:
+Single person presentation, but was able to keep it consistant and comprensive illustration. 
+
+What were aspects of the presentations for which you had concerns or questions:
+Requires more detailed analysis on residual plot and justification. 
+
+
+
+Title of presentation: Song
+
+What were aspects of the presentation that you liked:
+Great demonstration with graph and the gif fit is interesting. 
+Many datasets from other sources and good development of definition. 
+
+What were aspects of the presentations for which you had concerns or questions:
+Voice is a little bit low and unclear for delivery. 
+Slow progress of presentation, resulting unable to present the whole idea comprehensively. 
+
+
+Title of presentation: NBA
+
+What were aspects of the presentation that you liked:
+Engaging opening and good background presentation. 
+A variety of analysis were conducted and practical for real life exploration.
+
+What were aspects of the presentations for which you had concerns or questions:
+The conclusions are drawn from the same data source and lack of clear labels on the graph presentation.
+
+
+
+
+Title of presentation: terrorism
+
+What were aspects of the presentation that you liked: 
+Massive exploarion but good handling with reduction of variables. 
+Very passionate speech and clear explanation.
+
+What were aspects of the presentations for which you had concerns or questions:
+Execessive paragraph of statment and texts for reading. Weak coordination between members while presenting.
